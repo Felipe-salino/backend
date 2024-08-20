@@ -1,1 +1,1 @@
-# backend - usado para tarefas realizadas na faculdade
+# backend - used for tasks performed in college
